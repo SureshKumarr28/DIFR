@@ -1,0 +1,46 @@
+﻿Created By Exterro® FTK® Imager 8.2.0.26 
+
+Case Information: 
+Acquired using: ADI8.2.0.26
+Case Number:  
+Evidence Number:  
+Unique Description: 
+Examiner:  
+Notes:  
+
+--------------------------------------------------------------
+
+Information for C:\Users\91934\Desktop\treasuredisk:
+
+Physical Evidentiary Item (Source) Information:
+[Device Info]
+ Source Type: Physical
+[Drive Geometry]
+ Cylinders: 12
+ Tracks per Cylinder: 255
+ Sectors per Track: 63
+ Bytes per Sector: 512
+ Sector Count: 204,800
+[Physical Drive Information]
+ Drive Model: Microsoft Virtual Disk
+ Drive Interface Type: SCSI
+ Removable drive: False
+ Source data size: 100 MB
+ Sector count:    204800
+[Computed Hashes]
+ MD5 checksum:    78480cb06db0be61635281e043dc9e2f
+ SHA1 checksum:   c55e6e0db82f0e43046a9b066a78c6db0c0bd5cb
+
+Image Information:
+ Acquisition started:   Fri Nov 28 22:06:16 2025
+ Acquisition finished:  Fri Nov 28 22:06:16 2025
+ Segment list:
+  C:\Users\91934\Desktop\treasuredisk.E01
+ COMPUTED HASH :  78480cb06db0be61635281e043dc9e2f
+ COMPUTED HASH :  c55e6e0db82f0e43046a9b066a78c6db0c0bd5cb
+
+Image Verification Results:
+ Verification started:  Fri Nov 28 22:06:16 2025
+ Verification finished: Fri Nov 28 22:06:17 2025
+ MD5 checksum:    78480cb06db0be61635281e043dc9e2f : verified
+ SHA1 checksum:   c55e6e0db82f0e43046a9b066a78c6db0c0bd5cb : verified
